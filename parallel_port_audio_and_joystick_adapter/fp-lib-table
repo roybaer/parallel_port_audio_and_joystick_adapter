@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name parallel_port_audio_and_joystick_adapter)(type KiCad)(uri "/home/benedikt/retro/FTL Sound Adapter/parallel_port_audio_and_joystick_adapter")(options "")(descr ""))
+)
